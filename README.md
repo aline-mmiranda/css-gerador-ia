@@ -233,7 +233,7 @@ npx live-server
 
 <div align="center">
 
-  [![Ver aplicação online](https://img.shields.io/badge/▶%20Acessar%20Aplicação-000000?style=for-the-badge)](https://[DEPLOY_URL])
+  [![Ver aplicação online](https://img.shields.io/badge/▶%20Acessar%20Aplicação-000000?style=for-the-badge)](https://aline-mmiranda.github.io/css-gerador-ia/)
 
   Hospedado em: **GitHub Pages**
 
